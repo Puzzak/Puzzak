@@ -13,6 +13,6 @@ And here is all my recommendations, CVs, badges - and more!
     * [Certificate of completion of HTML course on SoloLearn](/Puzzak%20-%20Certificate%20-%20SoloLearn%20-%20HTML.pdf)
 ### Letters
   1. [Letter of gratitude from Games Gathering Conference 2019 (UA)](/Puzzak%20-%20Letter%20-%20GGC%20-%20Gratitude.pdf)
-      > Подяка за ефективну працю, швидку реакцію та великий інтерес до відео ігор на конференції Games Gathering 2019
+      > Gratitude for the efficient work, quick reaction and great interest in video games at the Games Gathering 2019 conference
   1. [Recommendational letter from Crypto Games Conference 2019 (RU)](/Puzzak%20-%20Letter%20-%20CGC%20-%20Recommendation.pdf)
-      >Лапикура Артём Олесьевич был волонтёром на международной конференции Crypto Games Conference с 10 по 11  октября 2019 г. Его обязанности в должности волонтёра состояли в контроле над соблюдением порядка и контролем чистоты в его зоне, помощи посетителям, коммуникации волонёров между собой и с руководством конференции. За время проведения конференции Артём зарекомендовал себя пунктуальным, добросовестным, профессиональным сотрудником и лидером команды волонтеров.
+      > Lapikura Artem Olesovich was a volunteer at the international Crypto Games Conference from 10 to 11 October 2019. His duties as a volunteer were to monitor the order and control of cleanliness in his area, helping visitors, communication between volunteers and the conference crew. During the conference, Artemm proved to be a punctual, conscientious, professional employee and leader of the volunteer team.
