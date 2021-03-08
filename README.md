@@ -8,6 +8,7 @@ And here is all my recommendations, CVs, badges - and more!
 ### Certificates
  * Cisco
     * [Certificate of completion of IoT Introduction course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20IoT_Introduction.pdf)
+    * [Certificate of completion of Introduction to Cybersecurity course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20Introduction%20to%20Cybersecurity.pdf)
     * [Certificate of completion of NDG's Linux Unhatched course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20NDG%20Linux%20Unhatched.pdf)
   * SoloLearn
     * [Certificate of completion of HTML course on SoloLearn](/Puzzak%20-%20Certificate%20-%20SoloLearn%20-%20HTML.pdf)
