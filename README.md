@@ -1,5 +1,6 @@
 # Hi, I am Puzzak!
 And here is all my recommendations, CVs, badges - and more!
+![Find me on Google](https://www.google.com/search?q=puzzak)
 ### Badges:
   ![Puzzak - Badge - Cisco - Introduction-to-IoT](/Puzzak%20-%20Badge%20-%20Cisco%20-%20Introduction-to-IoT%20-%20150px.png)
 ### CVs
