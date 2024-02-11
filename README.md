@@ -1,8 +1,10 @@
-# Hi, I am Puzzak!
-And here is all my recommendations, CVs, badges - and more!
-> [Find me on Google!](https://www.google.com/search?q=puzzak)
+![Header](Assets/Header.png)![Header](Assets/MD3Card.png)
+### My projects
+[![Header](Assets/Project-Fractals.png)](https://github.com/Puzzak/Fractalinator)[![Header](Assets/Project-MCPlayer.png)](https://github.com/Puzzak/MCPlayer)[![Header](Assets/Project-PTK.png)](https://github.com/Puzzak/PTK)
+### My links
+[![Header](Assets/Chip-Website.png)](https://puzzak.page)[![Header](Assets/Chip-Threads.png)](https://threads.net/@puzzaks)[![Header](Assets/Chip-PlayStore.png)](https://play.google.com/store/apps/dev?id=8304874346039659820)[![Header](Assets/Chip-Telegram.png)](https://t.me/puzzaks)[![Header](Assets/Chip-LinkedIn.png)](https://linkedin.com/in/puzzak/)[![Header](Assets/Chip-Twitter.png)](https://twitter.com/Puzzaks)[![Header](Assets/Chip-Reddit.png)](https://reddit.com/u/Puzzak)[![Header](Assets/Chip-YouTube.png)](https://youtube.com/@puzzak)[![Header](Assets/Chip-Twitch.png)](https://twitch.tv/puzzak)
 
-> [Check my webpage!](https://HumanZ.space)
+
 ### Badges:
   ![Puzzak - Badge - Cisco - Introduction-to-IoT](/Puzzak%20-%20Badge%20-%20Cisco%20-%20Introduction-to-IoT%20-%20150px.png)
 ### CVs
