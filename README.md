@@ -1,24 +1,20 @@
 ![Header](Assets/Header.png)![Header](Assets/MD3Card.png)
+
 ### My projects
-[![Header](Assets/Project-Fractals.png)](https://github.com/Puzzak/Fractalinator)[![Header](Assets/Project-MCPlayer.png)](https://github.com/Puzzak/MCPlayer)[![Header](Assets/Project-PTK.png)](https://github.com/Puzzak/PTK)
+[![Fractals](Assets/Project-Fractals.png)](https://github.com/Puzzak/Fractalinator)[![MCPlayer](Assets/Project-MCPlayer.png)](https://github.com/Puzzak/MCPlayer)[![PTK](Assets/Project-PTK.png)](https://github.com/Puzzak/PTK)
+
 ### My links
-[![Header](Assets/Chip-Website.png)](https://puzzak.page)[![Header](Assets/Chip-Threads.png)](https://threads.net/@puzzaks)[![Header](Assets/Chip-PlayStore.png)](https://play.google.com/store/apps/dev?id=8304874346039659820)[![Header](Assets/Chip-Telegram.png)](https://t.me/puzzaks)[![Header](Assets/Chip-LinkedIn.png)](https://linkedin.com/in/puzzak/)[![Header](Assets/Chip-Twitter.png)](https://twitter.com/Puzzaks)[![Header](Assets/Chip-Reddit.png)](https://reddit.com/u/Puzzak)[![Header](Assets/Chip-YouTube.png)](https://youtube.com/@puzzak)[![Header](Assets/Chip-Twitch.png)](https://twitch.tv/puzzak)
+[![Website](Assets/Chip-Website.png)](https://puzzak.page)[![Threads](Assets/Chip-Threads.png)](https://threads.net/@puzzaks)[![PlayStore](Assets/Chip-PlayStore.png)](https://play.google.com/store/apps/dev?id=8304874346039659820)[![Telegram](Assets/Chip-Telegram.png)](https://t.me/puzzaks)[![LinkedIn](Assets/Chip-LinkedIn.png)](https://linkedin.com/in/puzzak/)[![Twitter](Assets/Chip-Twitter.png)](https://twitter.com/Puzzaks)[![Reddit](Assets/Chip-Reddit.png)](https://reddit.com/u/Puzzak)[![YouTube](Assets/Chip-YouTube.png)](https://youtube.com/@puzzak)[![Twitch](Assets/Chip-Twitch.png)](https://twitch.tv/puzzak)
 
 
-### Badges:
-  ![Puzzak - Badge - Cisco - Introduction-to-IoT](/Puzzak%20-%20Badge%20-%20Cisco%20-%20Introduction-to-IoT%20-%20150px.png)
-### CVs
-  1. [Puzzak - CV - v1.1](/Puzzak%20-%20CV%20-%20v1.1.pdf)
-  1. [Puzzak - CV - v3.0](/Puzzak%20-%20CV%20-%20v3.0.pdf)
-### Certificates
- * Cisco
-    * [Certificate of completion of IoT Introduction course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20IoT_Introduction.pdf)
-    * [Certificate of completion of Introduction to Cybersecurity course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20Introduction%20to%20Cybersecurity.pdf)
-    * [Certificate of completion of NDG's Linux Unhatched course on Cisco](/Puzzak%20-%20Certificate%20-%20Cisco%20-%20NDG%20Linux%20Unhatched.pdf)
-  * SoloLearn
-    * [Certificate of completion of HTML course on SoloLearn](/Puzzak%20-%20Certificate%20-%20SoloLearn%20-%20HTML.pdf)
-### Letters
-  1. [Letter of gratitude from Games Gathering Conference 2019 (UA)](/Puzzak%20-%20Letter%20-%20GGC%20-%20Gratitude.pdf)
-      > Gratitude for the efficient work, quick reaction and great interest in video games at the Games Gathering 2019 conference
-  1. [Recommendational letter from Crypto Games Conference 2019 (RU)](/Puzzak%20-%20Letter%20-%20CGC%20-%20Recommendation.pdf)
-      > Lapikura Artem Olesovich was a volunteer at the international Crypto Games Conference from 10 to 11 October 2019. His duties as a volunteer were to monitor the order and control of cleanliness in his area, helping visitors, communication between volunteers and the conference crew. During the conference, Artem proved to be a punctual, conscientious, professional employee and leader of the volunteer team.
+### My Certificates of Completion
+[![CiscoIoT](Assets/Cert-CiscoIoT.png)](Certificates/Puzzak%20-%20Certificate%20-%20Cisco%20-%20IoT_Introduction.pdf)[![CiscoNDGLinux](Assets/Cert-CiscoNDGLinux.png)](Certificates/Puzzak%20-%20Certificate%20-%20Cisco%20-%20NDG%20Linux%20Unhatched.pdf)[![CiscoCs](Assets/Cert-CiscoCs.png)](Certificates/Puzzak%20-%20Certificate%20-%20Cisco%20-%20Introduction%20to%20Cybersecurity.pdf)[![Cert-SololearnHTML](Assets/Cert-SololearnHTML.png)](Certificates/Puzzak%20-%20Certificate%20-%20SoloLearn%20-%20HTML.pdf)
+
+### My Letters of Recommendation
+[![SOS Tech Recommendation](Assets/Recommendation-SOS.png)](Recommendations/Reference_Letter_Artem_Lapikura.pdf)[![CGC Recommendation](Assets/Recommendation-CGC.png)](Recommendations/Puzzak%20-%20Letter%20-%20CGC%20-%20Recommendation.pdf)[![GGC Recommendation](Assets/Recommendation-GG19.png)](Recommendations/Puzzak%20-%20Letter%20-%20GGC%20-%20Gratitude.pdf)[![GGC Recommendation](Assets/Recommendation-GG23.png)](Recommendations/Artem%20Lapikura%20GG%20Certificate.png)
+
+### My CV
+[![CV](Assets/CV-Card.png)](CVs/CV%20v7.0.pdf)
+
+### My Stats
+[![Puzzak's Stats](https://github-readme-stats.vercel.app/api?username=puzzak)](https://github.com/anuraghazra/github-readme-stats)
