@@ -17,4 +17,4 @@
 [![CV](Assets/CV-Card.png)](CVs/CV%20v7.0.pdf)
 
 ### My Stats
-[![Puzzak's Stats](https://github-readme-stats.vercel.app/api?username=puzzak)](https://github.com/anuraghazra/github-readme-stats)
+![Puzzak's Stats](https://github-readme-stats.vercel.app/api?username=puzzak&show_icons=true&theme=default&text_color=009688&icon_color=009688&title_color=009688&bg_color=00000000#gh-light-mode-only)
