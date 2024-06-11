@@ -14,7 +14,7 @@
 [![SOS Tech Recommendation](Assets/Recommendation-SOS.png)](Recommendations/Reference_Letter_Artem_Lapikura.pdf)[![CGC Recommendation](Assets/Recommendation-CGC.png)](Recommendations/Puzzak%20-%20Letter%20-%20CGC%20-%20Recommendation.pdf)[![GGC Recommendation](Assets/Recommendation-GG19.png)](Recommendations/Puzzak%20-%20Letter%20-%20GGC%20-%20Gratitude.pdf)[![GGC Recommendation](Assets/Recommendation-GG23.png)](Recommendations/Artem%20Lapikura%20GG%20Certificate.png)
 
 ### My CV
-[![CV](Assets/CV-Card.png)](CVs/CV%20v7.0.pdf)
+[![CV](Assets/CV-Card.png)](CVs/CV%20v8.0.pdf)
 
 ### My Stats
 ![Puzzak's Stats](https://github-readme-stats.vercel.app/api?username=puzzak&show_icons=true&theme=default&text_color=009688&icon_color=009688&title_color=009688&bg_color=00000000&hide_border=true)
